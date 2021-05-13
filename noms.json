@@ -1,0 +1,16 @@
+{
+    "etudiants": [
+        {
+            "prenom": "",
+            "nom": "",
+            "matricule": 12345678,
+            "courriel": "prenom.nom@USherbrooke.ca"
+        },
+        {
+            "prenom": "",
+            "nom": "",
+            "matricule": 12345678,
+            "courriel": "prenom.nom@USherbrooke.ca"
+        }
+    ]
+}
